@@ -1,0 +1,9 @@
+.background_img{
+	background: url(../images/banner_eicena.png) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
